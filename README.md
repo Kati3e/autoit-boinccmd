@@ -17,3 +17,6 @@ v0.1
     ```
       switchProjects($project1, $project2) ; Project 1 suspends, Project 2 resumes
     ```
+    
+Coded by: Katiee  
+ - Find me on IRC @ irc://irc.freenode.net/#gridcoin
