@@ -6,10 +6,10 @@ it can run from anywhere.
 
 Functions:
 ----------
-  * switchProjects($project1, $project2) ; Project 1 suspends, Project 2 resumes
   * sendCommand($command) ; Sends a command to boinccmd.exe and returns output
   * getTasks($data) ; Get all tasks and save to global array $taskArray
   * findProject($name) ; Search $taskArray for project name, returns array index or -1 if not found
+  * switchProjects($project1, $project2) ; Project 1 suspends, Project 2 resumes
 
 v0.1
 ----------
